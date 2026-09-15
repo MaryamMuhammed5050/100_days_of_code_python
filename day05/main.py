@@ -9,6 +9,7 @@ num = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 sym = ['!', '@', '#', '%', '&', '(', ')', '*', '+', '=', '?', '.', ',', ';', ':']
 
 print("Welcome to the pyPassword Generator!")
+print("we will generate a random password for you based on your preferences.")
 
 num_alpha = input("How many letters would you like in your password?\n")
 nr_num = input("How many numbers would you like?\n")
